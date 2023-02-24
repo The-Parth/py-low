@@ -1,4 +1,8 @@
+"""no modules imported"""
 def func():
+    """
+    This function calculates the distance between two points in a plane.
+    """
     x1 = int(input("Enter X coordinates of point 1: "))
     y1 = int(input("Enter Y coordinates of point 1: "))
     x2 = int(input("Enter X coordinates of point 2: "))
